@@ -1,0 +1,50 @@
+/* .container{
+    background-color: rgb(238, 255, 144);
+    border: rgb(255, 220, 67) solid 2px;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 50px auto;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(235, 235, 235);
+}
+#card-event{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}*/
+#card{
+    visibility: hidden;
+} 
+.container{
+    background-color: #D891D8;
+    border:purple solid 20px;
+    border-radius: 20px;
+    padding: 50px;
+    margin: 50px auto;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(235, 235, 235);
+}
+#card-event{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    font-family: 'Lobster', cursive;
+    color: purple;
+    text-align: center;
+    font-size: 100px;
+}
+.form-group{
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 20px;
+    font-weight: 200;
+    color: white;
+    margin: 20px;
+}
+.material-icons{
+    font-size: 500px;
+    color:purple;
+}
